@@ -1,0 +1,39 @@
+{
+  "name": "rsDatepicker",
+  "homepage": "https://github.com/gauravbansal74/rsDatepicker",
+  "authors": [
+    "Gaurav Kumar <gauravbansal74@gmail.com>"
+  ],
+  "description": "AngularJS Simple Date picker directive",
+  "main": "src/js/ngDatepicker.js",
+  "keywords": [
+    "AngularJS",
+    "Datepicker",
+    "date",
+    "picker"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "index.html",
+    "screenshot"
+  ],
+  "dependencies": {
+    "angular": "~1.4.0",
+    "moment": "~2.10.3"
+  },
+  "_release": "6459fbc1f7",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "6459fbc1f7efed30067a3806273159754052f507"
+  },
+  "_source": "https://github.com/gauravbansal74/rsDatepicker.git",
+  "_target": "*",
+  "_originalSource": "rsDatepicker",
+  "_direct": true
+}
